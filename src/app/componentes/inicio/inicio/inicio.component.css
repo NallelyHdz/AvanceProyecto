@@ -1,0 +1,23 @@
+.card{
+    max-width: 1100px;
+    height: 800px;
+    margin-left: 100px;
+    padding-left: 20px;
+    margin-right: 60px;
+}
+
+.card-body{
+    background-color: rgb(243, 198, 251);
+}
+
+h3{
+    color: rgb(118, 20, 209);
+}
+h4{
+    color: rgb(147, 73, 216);
+}
+
+.img-fluid{
+    margin-top: 200px;
+    margin-left: 20px;
+}

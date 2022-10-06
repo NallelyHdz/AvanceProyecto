@@ -1,0 +1,107 @@
+[
+    {
+     "Nombre": "snicker",
+     "Tipo": "chocolate",
+     "Cantidad": 24,
+     "Precio": 80
+    },
+    {
+     "Nombre": "chocoretas",
+     "Tipo": "chocolate",
+     "Cantidad": 35,
+     "Precio": 95
+    },
+    {
+     "Nombre": "duvalin ",
+     "Tipo": "chocolate",
+     "Cantidad": 23,
+     "Precio": 30,
+     "descripcion": "dulce cremoso"
+    },
+    {
+     "Nombre": "kranky",
+     "Tipo": "chocolate",
+     "Cantidad": 36,
+     "Precio": 64
+    },
+    {
+     "Nombre": "kinder delice",
+     "Tipo": "chocolate",
+     "Cantidad": 25,
+     "Precio": 110
+    },
+    {
+     "Nombre": "gummy lucky lombriz",
+     "Tipo": "gomitas",
+     "Cantidad": 65,
+     "Precio": 80
+    },
+    {
+     "Nombre": "gummy lucky manguitos",
+     "Tipo": "gomitas",
+     "Cantidad": 54,
+     "Precio": 65
+    },
+    {
+     "Nombre": "picafresa",
+     "Tipo": "gomitas",
+     "Cantidad": 45,
+     "Precio": 50
+    },
+    {
+     "Nombre": "panditas",
+     "Tipo": "gomitas",
+     "Cantidad": 47,
+     "Precio": 91
+    },
+    {
+     "Nombre": "gomilocas dientes",
+     "Tipo": "gomitas",
+     "Cantidad": 56,
+     "Precio": 90
+    },
+    {
+     "Nombre": "vero mix dulce",
+     "Tipo": "paletas",
+     "Cantidad": 53,
+     "Precio": 42
+    },
+    {
+     "Nombre": "tik tik",
+     "Tipo": "paletas",
+     "Cantidad": 32,
+     "Precio": 36
+    },
+    {
+     "Nombre": "tarrito",
+     "Tipo": "paletas",
+     "Cantidad": 43,
+     "Precio": 60
+    },
+    {
+     "Nombre": "pinta azul",
+     "Tipo": "paletas",
+     "Cantidad": 33,
+     "Precio": 64
+    },
+    {
+     "Nombre": "vero elotes",
+     "Tipo": "paletas",
+     "Cantidad": 12,
+     "Precio": 62
+    },
+    {
+     "Nombre": "sabriminis",
+     "Tipo": "botanas",
+     "Cantidad": 45,
+     "Precio": 250,
+     "descripcion": "surtido de botana mini, paquete incluye:sabritas, doritos, chetos"
+    },
+    {
+     "Nombre": "cacahuates salado",
+     "Tipo": "botanas",
+     "Cantidad": 32,
+     "Precio": 52,
+     "descripcion": "cacahuate pelado salado, bolsa de 1 kg"
+    }
+   ]
