@@ -10,6 +10,7 @@ import { PageNotFoundComponent } from './componentes/pageNotFound/page-not-found
 import { AboutComponent } from './componentes/About/about/about.component';
 import { ContactoComponent } from './componentes/Contacto/contacto/contacto.component';
 import { GaleriaComponent } from './componentes/Galeria/galeria/galeria.component';
+import { FooterComponent } from './componentes/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -19,12 +20,14 @@ import { GaleriaComponent } from './componentes/Galeria/galeria/galeria.componen
     PageNotFoundComponent,
     AboutComponent,
     ContactoComponent,
-    GaleriaComponent
+    GaleriaComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
     AppToutingModule,
-    HttpClientModule
+    HttpClientModule,
+    
   ],
   providers: [],
   bootstrap: [AppComponent]

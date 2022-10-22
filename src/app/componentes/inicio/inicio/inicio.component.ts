@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import{ProductosService} from '../../../../service/productos.service'
-import{Route}from '@angular/router';
+
 
 @Component({
   selector: 'app-inicio',
@@ -9,16 +8,9 @@ import{Route}from '@angular/router';
 })
 export class InicioComponent implements OnInit {
 
-  ProductList:any[]=[];
-  constructor(private ProductosSvc:ProductosService) { 
-    this.ProductosSvc.getAll().subscribe((result:any)=>{
-      this.ProductList=result;
-      console.log(result)
-    });
+  constructor() { 
+
   }
-
- 
-
   ngOnInit(): void {
   }
 

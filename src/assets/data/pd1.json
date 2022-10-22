@@ -1,0 +1,70 @@
+[
+    {
+     "Nombre": "snicker",
+     "Descripcion": "Chocolate con leche relleno de caramelo, cacahuate y nougat"
+    },
+    {
+     "Nombre": "chocoretas",
+     "Descripcion": "Dulces sabor a menta y chocolate confitado. Peso del paquete 500 gramos"
+    },
+    {
+     "Nombre": "duvalin ",
+     "Descripcion": "Dulce cremoso sabor a avellana, fresa y vainilla. Paquete con 18 piezas de 15 gramos cada uno"
+    },
+    {
+     "Nombre": "kranky",
+     "Descripcion": "Hojuela de maíz con cubierta de chocolate. Paquete con 25 piezas de 15 gramos cada uno"
+    },
+    {
+     "Nombre": "kinder delice",
+     "Descripcion": "Pastelito con cobertura a base de cacao con relleno a base de leche"
+    },
+    {
+     "Nombre": "gummy lucky lombriz",
+     "Descripcion": "Gomitas de grenetina en forma de lombrices de sabores frutales. Bolsa de 1kg"
+    },
+    {
+     "Nombre": "gummy lucky manguitos",
+     "Descripcion": "Gomitas de almidón enchiladas en forma de manguitos. Bolsa de 1kg"
+    },
+    {
+     "Nombre": "picafresa",
+     "Descripcion": "Gomitas de almidón confitada con chile y sabor a fresa. Paquete con 100 piezas de 6 gramos cada uno"
+    },
+    {
+     "Nombre": "panditas",
+     "Descripcion": "Gomitas de grenetina sabor fresa, limón, piña y naranja. Bolsa de 1kg"
+    },
+    {
+     "Nombre": "gomilocas dientes",
+     "Descripcion": "Gomitas de grenetina en forma de diente. Bolsa de 1kg"
+    },
+    {
+     "Nombre": "vero mix dulce",
+     "Descripcion": "Surtido de paletas. Paquete de 20 piezas de 15.6 gramos cada uno"
+    },
+    {
+     "Nombre": "tix tix",
+     "Descripcion": "Paleta de caramelo macizo sabores surtidos. Bolsa con 30 piezas de 11 gramos cada uno"
+    },
+    {
+     "Nombre": "tarrito",
+     "Descripcion": "Paleta de caramelo macizo acidulado y efervescente sabor a frutas. Paquete con 40 piezas de 16 gramos cada uno"
+    },
+    {
+     "Nombre": "pinta azul",
+     "Descripcion": "Paleta de caramelo macizo acidulado sabor frambuesa fresa. Bolsa con 48 piezas de 14 gramos cada uno"
+    },
+    {
+     "Nombre": "vero elotes",
+     "Descripcion": "Paleta de caramelo macizo acidulado sabor fresa. Paquete con 40 piezas de 16 gramos cada uno"
+    },
+    {
+     "Nombre": "sabriminis",
+     "Descripcion": "Surtido de botana mini, paquete con 50 piezas, incluye:sabritas, doritos, chetos,ruffles,rancheritos,churrumais"
+    },
+    {
+     "Nombre": "cacahuates salado",
+     "Descripcion": "Cacahuate pelado salado, bolsa de 1 kg"
+    }
+   ]
